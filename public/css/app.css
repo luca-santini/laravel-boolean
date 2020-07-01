@@ -10932,6 +10932,27 @@ body {
   font-family: "Rubik", sans-serif;
 }
 
+h4 {
+  color: #8e8e8e;
+}
+
+.blue {
+  background: #1B3C59;
+}
+
+.white {
+  background: #FFFFFF;
+}
+
+.container {
+  margin-left: 5%;
+}
+
+.col-3 h3,
+p {
+  color: #FFFFFF;
+}
+
 .navbar .navbar-brand img {
   width: 200px;
 }
@@ -10940,7 +10961,24 @@ body {
   text-transform: uppercase;
 }
 
-footer small {
-  color: #888;
+footer {
+  background-color: #1B3C59;
+}
+
+footer p {
+  color: #FFFFFF;
+}
+
+footer .col-4 img {
+  max-width: 30%;
+}
+
+footer .col-4 ul li {
+  list-style: none;
+  color: #FFFFFF;
+}
+
+footer .col-4 a {
+  color: #FFFFFF;
 }
 
