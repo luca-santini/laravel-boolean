@@ -5,13 +5,13 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center">Benvenuto</h1>
-                <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                  <strong>Holy guacamole!</strong> You should check in on some of those fields below.
-                  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
+                <h1>DIVENTA <br><strong>SVILUPPATORE WEB</strong></h1>
+                <p class="subtitle">Trasformiamo la tua passione in una carriera. Se non trovi lavoro, ti rimborsiamo.</p>
+                <ul>
+                    <li><strong>6 mesi</strong> di corso intensivo online in diretta</li>
+                    <li><strong>Nessuna competenza</strong> di programmazione richiesta</li>
+                    <li>Siamo certi del tuo successo, altrimenti <strong>ti rimborsiamo</strong></li>
+                </ul>
             </div>
         </div>
     </div>
