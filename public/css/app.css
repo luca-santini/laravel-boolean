@@ -10928,3 +10928,19 @@ a.text-dark:focus {
   }
 }
 
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.navbar .navbar-brand img {
+  width: 200px;
+}
+
+.navbar .nav-link {
+  text-transform: uppercase;
+}
+
+footer small {
+  color: #888;
+}
+

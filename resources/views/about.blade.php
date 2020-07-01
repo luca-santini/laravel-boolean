@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Chi siamo</h1>
-        <p>Ciao {{ $nome ?? ''}}</p>
+        <p>Ciao</p>
 
     </body>
 </html>
