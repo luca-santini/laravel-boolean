@@ -19,7 +19,7 @@
         <a class="nav-link" href="{{ route('faq') }}">Domande frequenti</a>
       </li>
       <li class="nav-item">
-        <button type="button" class="btn btn-success">Candidati ora</button>
+        <a href="{{ route('contatti') }}"> <button type="button" class="btn btn-success">Candidati ora</button></a>
       </li>
      </ul>
   </div>
